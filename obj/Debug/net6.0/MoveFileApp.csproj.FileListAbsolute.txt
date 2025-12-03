@@ -1,0 +1,14 @@
+C:\Users\productionatm06\source\repos\MoveFileApp\bin\Debug\net6.0\MoveFileApp.exe
+C:\Users\productionatm06\source\repos\MoveFileApp\bin\Debug\net6.0\MoveFileApp.deps.json
+C:\Users\productionatm06\source\repos\MoveFileApp\bin\Debug\net6.0\MoveFileApp.runtimeconfig.json
+C:\Users\productionatm06\source\repos\MoveFileApp\bin\Debug\net6.0\MoveFileApp.dll
+C:\Users\productionatm06\source\repos\MoveFileApp\bin\Debug\net6.0\MoveFileApp.pdb
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.AssemblyInfoInputs.cache
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.AssemblyInfo.cs
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.csproj.CoreCompileInputs.cache
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.dll
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\refint\MoveFileApp.dll
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.pdb
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\MoveFileApp.genruntimeconfig.cache
+C:\Users\productionatm06\source\repos\MoveFileApp\obj\Debug\net6.0\ref\MoveFileApp.dll
